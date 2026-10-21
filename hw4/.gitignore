@@ -1,0 +1,7 @@
+.venv/
+.uv-cache/
+.uv-tools/
+.uv-python/
+__pycache__/
+*.pyc
+.env
